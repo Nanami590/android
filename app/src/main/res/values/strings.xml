@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Lab1Calc</string>
+    <string name="_null">0</string>
+    <string name="_first">1</string>
+    <string name="_second">2</string>
+    <string name="_third">3</string>
+    <string name="_fourth">4</string>
+    <string name="_fifth">5</string>
+    <string name="_sixth">6</string>
+    <string name="_seventh">7</string>
+    <string name="_eight">8</string>
+    <string name="_ninth">9</string>
+    <string name="_plus">+</string>
+    <string name="_minus">-</string>
+    <string name="_multiply">*</string>
+    <string name="_divide">/</string>
+    <string name="_comma">.</string>
+    <string name="_equal">=</string>
+    <string name="_remove">Del</string>
+    <string name="_clear">C</string>
+</resources>
